@@ -25,7 +25,14 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 <img width="960" height="518" alt="Image" src="https://github.com/user-attachments/assets/34aa5b56-40b2-4b8b-8083-f31edcdc371a" />
 
-3️⃣ Integrated LeadConnector for SMS + calls
+3️⃣ Add custom login page 
+
+📸 Proof:
+
+<img width="960" height="520" alt="Image" src="https://github.com/user-attachments/assets/9c5d5936-507e-48d2-a89f-f59599a5f61c" />
+
+Integrated LeadConnector for SMS + calls
+
 
 
 4️⃣ Integrated Mailgun for email deliverability
