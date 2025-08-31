@@ -23,6 +23,8 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 * Screenshot: from go high level dashboard
 
+<img width="960" height="518" alt="Image" src="https://github.com/user-attachments/assets/34aa5b56-40b2-4b8b-8083-f31edcdc371a" />
+
 3️⃣ Integrated LeadConnector for SMS + calls
 
 
