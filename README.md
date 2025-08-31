@@ -15,8 +15,7 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 📸 Proof:
 
-* Video : Branded login page from custom domain
-
+<img width="960" height="491" alt="Image" src="https://github.com/user-attachments/assets/1c29418e-b583-4322-8436-93e85350e0bc" />
 
 2️⃣ White-label customization `logo, favicon`
 
