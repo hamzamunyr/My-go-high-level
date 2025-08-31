@@ -36,34 +36,7 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 📸 Proof:
 
 
-## Agency Account Setup (White-Label Foundation)
-
-1️⃣ Branded GHL login at `app.mytechfied.com`
-
-📸 Proof:
-
-* Video : Branded login page from custom domain
-
-
-2️⃣ White-label customization `logo, favicon`
-
-📸 Proof:
-
-* Screenshot: from go high level dashboard
-
-3️⃣ Integrated LeadConnector for SMS + calls
-
-
-4️⃣ Integrated Mailgun for email deliverability
-
-5️⃣ Stripe setup for client payments
-
-6️⃣ Google Business Profile, Facebook & Instagram connected
-
-📸 Proof:
-
-
-![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 ## CRM & Pipelines
 
 1️⃣ Built 3 pipelines: 
