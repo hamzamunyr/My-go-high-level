@@ -39,21 +39,23 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 * Sales Pipeline `Lead → Contacted → Appointment → Closed`
 
+📸 Proof:
+
 ![Image](https://github.com/user-attachments/assets/a6fbfcd7-1811-4d40-a584-4f4d0d13c746)
 
 * Client Onboarding `Signed → Payment → Setup → Active`
 
+2️⃣ Custom fields `logo budget, service type, source, etc.`
+
 📸 Proof:
 
-* Screenshot : pipelines 
-
-2️⃣ Custom fields `logo budget, service type, source, etc.`
+<img width="966" height="489" alt="Image" src="https://github.com/user-attachments/assets/3860741b-7b69-4270-993f-141d3b2c874d" />
 
 3️⃣ Smart Lists & tags `Hot Leads, Cold Leads, Referrals`
 
 📸 Proof:
 
-* Screenshot : contact tags
+<img width="960" height="488" alt="Image" src="https://github.com/user-attachments/assets/4d33c869-c2c1-4a2d-b708-5d2590d7cbae" />
 
 4️⃣ Automation: Leads auto move when they reply
 
