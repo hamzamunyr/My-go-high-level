@@ -128,8 +128,9 @@ I’ve built 10+ professional automations, including:
 3️⃣ Added popups & sticky bars for lead capture
 
 📸 Proof:
+
 ![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
 ## 5. Forms, Surveys & Calendars
 
 1️⃣ Lead capture forms `Name, Email, Phone, Service`
