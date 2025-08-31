@@ -31,7 +31,8 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 <img width="960" height="520" alt="Image" src="https://github.com/user-attachments/assets/9c5d5936-507e-48d2-a89f-f59599a5f61c" />
 
-[A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+
 ## 2. CRM & Pipelines
 
 1️⃣ Built 3 pipelines: 
