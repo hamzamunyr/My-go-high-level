@@ -9,7 +9,7 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 
 ![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-## Agency Account Setup (White-Label Foundation)
+## 1. Agency Account Setup (White-Label Foundation)
 
 1️⃣ Branded GHL login at `app.mytechfied.com`
 
@@ -36,8 +36,35 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 📸 Proof:
 
 
-![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-## CRM & Pipelines
+## 1. Agency Account Setup (White-Label Foundation)
+
+1️⃣ Branded GHL login at `app.mytechfied.com`
+
+📸 Proof:
+
+* Video : Branded login page from custom domain
+
+
+2️⃣ White-label customization `logo, favicon`
+
+📸 Proof:
+
+* Screenshot: from go high level dashboard
+
+3️⃣ Integrated LeadConnector for SMS + calls
+
+
+4️⃣ Integrated Mailgun for email deliverability
+
+5️⃣ Stripe setup for client payments
+
+6️⃣ Google Business Profile, Facebook & Instagram connected
+
+📸 Proof:
+
+
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+## 2. CRM & Pipelines
 
 1️⃣ Built 3 pipelines: 
 
@@ -57,7 +84,7 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 * Screenshot : contact tags
 
-4️⃣ Automation: Leads auto-move when they reply
+4️⃣ Automation: Leads auto move when they reply
 
 📸 Proof:
 
@@ -65,3 +92,188 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 
 
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+## 3. Workflows & Automations (Core Value)
+
+I’ve built 10+ professional automations, including:
+
+* Missed Call Text Back
+
+    📸 Proof:
+
+* Appointment Reminders `24h & 1h before`
+
+    📸 Proof:
+
+* No-Show Follow Up `reschedule link`
+
+    📸 Proof:
+
+* Lead Nurture Drip `5-day SMS/email sequence`
+
+    📸 Proof:
+
+* Cold Outreach Sequence `multi-day follow-up`
+
+    📸 Proof:
+
+* Win-Back Campaign `30-day inactive contacts`
+
+    📸 Proof:
+
+* Review Request Flow `positive → Google, negative → internal form`
+
+    📸 Proof:
+
+* Internal Notifications `Slack/email alerts for new leads` 
+
+    📸 Proof:
+
+* Invoice Reminders `payment failed → SMS/email`
+
+    📸 Proof:
+
+* Lead Scoring `points for opens, clicks, form submits`
+
+    📸 Proof:
+
+* Pipelines auto move 
+
+    📸 Proof:
+
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+## 4. Funnels & Websites
+
+1️⃣ Built funnel `Free Consultation → Calendar Booking → TY Page`
+
+📸 Proof:
+
+2️⃣ Built a 5 pages demo website `Home, About, Services, Blog, Contact`
+
+📸 Proof:
+
+3️⃣ Added popups & sticky bars for lead capture
+
+📸 Proof:
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+## 5. Forms, Surveys & Calendars
+
+1️⃣ Lead capture forms `Name, Email, Phone, Service`
+
+📸 Proof:
+
+2️⃣ Business Growth Survey `quiz with scoring`
+
+📸 Proof:
+
+3️⃣ Booking calendars `Round Robin, Class Booking, 1:1 Consultation`
+
+📸 Proof:![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+## 6. Email & SMS Campaigns
+
+1️⃣ 3 Email Campaigns: Welcome Series, Weekly Newsletter, Sales Promo
+
+📸 Proof:
+
+2️⃣ 2 SMS Campaigns: Flash Sale & Appointment Reminder
+
+📸 Proof:
+
+3️⃣ Branded email templates with CTA buttons
+
+📸 Proof:
+
+4️⃣ A/B tested subject lines
+
+📸 Proof:![A cool GIF](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+## 7. Social Media Planner
+
+1️⃣ Connected FB, IG, LinkedIn
+
+📸 Proof:
+
+2️⃣ Scheduled 7 demo posts (graphics, tips, blog shares)
+
+📸 Proof:
+
+3️⃣ Social calendar view inside GHL
+
+📸 Proof:
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+## 8. Reputation Management
+
+1️⃣ 3 Automated review requests via SMS/email
+
+📸 Proof:
+
+2️⃣ Review funnel `positive → Google, negative → private form`
+
+📸 Proof:
+
+3️⃣ Mock reviews dashboard with growing star ratings
+
+📸 Proof:
+
+
+![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+## 9. Reporting & Dashboards
+
+1️⃣ Custom dashboards tracking:
+
+* New leads
+
+* Appointments booked
+
+* Campaign performance (open/click rates)
+
+* Sales by channel
+
+📸 Proof:
+
+![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+## 10. Payments & Invoicing
+
+1️⃣ Stripe integration
+
+📸 Proof:
+
+2️⃣ Checkout funnel `Buy Now → TY Page`
+
+📸 Proof:
+
+3️⃣ Sample invoices `one-time + recurring`
+
+📸 Proof:
+
+4️⃣ Automation `Failed payment → Reminder SMS`
+
+📸 Proof:![A cool GIF](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+## 11. Chat Widgets & Conversations
+
+1️⃣ Live Chat widget added to demo sit
+
+📸 Proof:
+
+2️⃣ Unified inbox: FB Messenger, IG DMs, SMS, Email
+
+📸 Proof:
+
+3️⃣ Auto Reply Bot setup
+
+📸 Proof:
+
+## Why This Portfolio Stands Out
+
+By building all 13 categories in detail, I’ve created one of the most complete Go High Level portfolios you’ll find.
+This isn’t just random funnels — it’s a full business automation ecosystem that proves I can:
+
+✅ Onboard new clients
+
+✅ Build funnels & automations from scratch
+
+✅ Automate campaigns that drive results
+
+✅ Track performance with dashboards & reporting
+
+✅ Deploy systems fast with snapshots
