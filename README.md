@@ -31,15 +31,6 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 <img width="960" height="520" alt="Image" src="https://github.com/user-attachments/assets/9c5d5936-507e-48d2-a89f-f59599a5f61c" />
 
-Integrated LeadConnector for SMS + calls
-
-
-
-4️⃣ Integrated Mailgun for email deliverability
-
-5️⃣ Stripe setup for client payments
-
-6️⃣ Google Business Profile, Facebook & Instagram connected
 
 📸 Proof:
 
