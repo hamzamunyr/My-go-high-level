@@ -39,6 +39,8 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 * Sales Pipeline `Lead → Contacted → Appointment → Closed`
 
+![Image](https://github.com/user-attachments/assets/a6fbfcd7-1811-4d40-a584-4f4d0d13c746)
+
 * Client Onboarding `Signed → Payment → Setup → Active`
 
 📸 Proof:
