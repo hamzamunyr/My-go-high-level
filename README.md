@@ -61,7 +61,7 @@ This portfolio is structured into 13 core categories, each with real setups, wor
 
 📸 Proof:
 
-* Screenshot : Automation
+<img width="959" height="487" alt="Image" src="https://github.com/user-attachments/assets/bb0b1e58-b58c-465b-8825-289c6eded020" />
 
 
 
