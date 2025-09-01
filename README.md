@@ -74,6 +74,8 @@ I’ve built 10+ professional automations, including:
 
     📸 Proof:
 
+  <img width="960" height="457" alt="Image" src="https://github.com/user-attachments/assets/639e5221-ebd5-489b-b3c5-9f1577be7590" />
+
 * Appointment Reminders `24h & 1h before`
 
     📸 Proof:
