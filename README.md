@@ -80,6 +80,8 @@ I’ve built 10+ professional automations, including:
 
     📸 Proof:
 
+  ![Image](https://github.com/user-attachments/assets/036bab7b-e6c5-4710-956d-c4e1da0bb0ab)
+
 * No-Show Follow Up `reschedule link`
 
     📸 Proof:
