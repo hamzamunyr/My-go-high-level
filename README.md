@@ -80,11 +80,13 @@ I’ve built 10+ professional automations, including:
 
     📸 Proof:
 
-  ![Image](https://github.com/user-attachments/assets/036bab7b-e6c5-4710-956d-c4e1da0bb0ab)
+![Image](https://github.com/user-attachments/assets/78d6c427-734a-446a-b9c3-5ab4f9eea54f)
 
 * No-Show Follow Up `reschedule link`
 
     📸 Proof:
+
+  <img width="960" height="455" alt="Image" src="https://github.com/user-attachments/assets/5f15820a-f7ce-4b41-8e52-e838cfec1d20" />
 
 * Lead Nurture Drip `5-day SMS/email sequence`
 
@@ -93,6 +95,8 @@ I’ve built 10+ professional automations, including:
 * Cold Outreach Sequence `multi-day follow-up`
 
     📸 Proof:
+
+  ![Image](https://github.com/user-attachments/assets/aaa2588d-987e-4328-ac28-14b29085ee5f)
 
 * Win-Back Campaign `30-day inactive contacts`
 
@@ -123,11 +127,15 @@ I’ve built 10+ professional automations, including:
 
 1️⃣ Built funnel `Free Consultation → Calendar Booking → TY Page`
 
-📸 Proof:
+📸 Proof: 
+
+<img width="960" height="488" alt="Image" src="https://github.com/user-attachments/assets/9245586b-a03e-4dc4-bb3d-342f40a230d9" />
 
 2️⃣ Built a 5 pages demo website `Home, About, Services, Blog, Contact`
 
 📸 Proof:
+
+
 
 3️⃣ Added popups & sticky bars for lead capture
 
@@ -147,7 +155,10 @@ I’ve built 10+ professional automations, including:
 
 3️⃣ Booking calendars `Round Robin, Class Booking, 1:1 Consultation`
 
-📸 Proof:![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+📸 Proof:
+
+![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+
 ## 6. Email & SMS Campaigns
 
 1️⃣ 3 Email Campaigns: Welcome Series, Weekly Newsletter, Sales Promo
