@@ -135,11 +135,13 @@ I’ve built 10+ professional automations, including:
 
 📸 Proof:
 
-
+![Image](https://github.com/user-attachments/assets/d00eeed2-0aaf-4425-9238-f513338b8849)
 
 3️⃣ Added popups & sticky bars for lead capture
 
 📸 Proof:
+
+<img width="959" height="455" alt="Image" src="https://github.com/user-attachments/assets/f83e01d8-bb41-4d99-bb88-acb7e613ff6a" />
 
 ![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
@@ -149,13 +151,19 @@ I’ve built 10+ professional automations, including:
 
 📸 Proof:
 
+<img width="949" height="458" alt="Image" src="https://github.com/user-attachments/assets/34f73c6d-6d29-42a6-89ae-1dbe2b5325e0" />
+
 2️⃣ Business Growth Survey `quiz with scoring`
 
 📸 Proof:
 
+<img width="960" height="488" alt="Image" src="https://github.com/user-attachments/assets/7cceb413-61fc-4ff0-9f5f-b27ae9e81348" />
+
 3️⃣ Booking calendars `Round Robin, Class Booking, 1:1 Consultation`
 
 📸 Proof:
+
+<img width="960" height="485" alt="Image" src="https://github.com/user-attachments/assets/2346924a-6c41-4411-ad83-ab3737b8ca9e" />
 
 ![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
