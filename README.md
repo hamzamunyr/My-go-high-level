@@ -184,6 +184,8 @@ I’ve built 10+ professional automations, including:
 4️⃣ A/B tested subject lines
 
 📸 Proof:![A cool GIF](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+
+<!--
 ## 7. Social Media Planner
 
 1️⃣ Connected FB, IG, LinkedIn
@@ -198,6 +200,8 @@ I’ve built 10+ professional automations, including:
 
 📸 Proof:
 ![A cool GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+-->
+<!--
 ## 8. Reputation Management
 
 1️⃣ 3 Automated review requests via SMS/email
@@ -214,6 +218,8 @@ I’ve built 10+ professional automations, including:
 
 
 ![A cool GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+-->
+<!--
 ## 9. Reporting & Dashboards
 
 1️⃣ Custom dashboards tracking:
@@ -229,6 +235,8 @@ I’ve built 10+ professional automations, including:
 📸 Proof:
 
 ![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
+-->
+<!--
 ## 10. Payments & Invoicing
 
 1️⃣ Stripe integration
@@ -245,7 +253,8 @@ I’ve built 10+ professional automations, including:
 
 4️⃣ Automation `Failed payment → Reminder SMS`
 
-📸 Proof:![A cool GIF](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+📸 Proof:![A cool GIF](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif) 
+-->
 <!--
 ## 11. Chat Widgets & Conversations
 
