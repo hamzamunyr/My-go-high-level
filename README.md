@@ -88,15 +88,17 @@ I’ve built 10+ professional automations, including:
 
   <img width="960" height="455" alt="Image" src="https://github.com/user-attachments/assets/5f15820a-f7ce-4b41-8e52-e838cfec1d20" />
 
-* Lead Nurture Drip `5-day SMS/email sequence`
-
-    📸 Proof:
-
 * Cold Outreach Sequence `multi-day follow-up`
 
     📸 Proof:
 
   ![Image](https://github.com/user-attachments/assets/aaa2588d-987e-4328-ac28-14b29085ee5f)
+
+<!--
+
+* Lead Nurture Drip `5-day SMS/email sequence`
+
+    📸 Proof:
 
 * Win-Back Campaign `30-day inactive contacts`
 
@@ -106,21 +108,12 @@ I’ve built 10+ professional automations, including:
 
     📸 Proof:
 
-* Internal Notifications `Slack/email alerts for new leads` 
-
-    📸 Proof:
 
 * Invoice Reminders `payment failed → SMS/email`
 
     📸 Proof:
 
-* Lead Scoring `points for opens, clicks, form submits`
-
-    📸 Proof:
-
-* Pipelines auto move 
-
-    📸 Proof:
+-->
 
 ![A cool GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 4. Funnels & Websites
@@ -167,6 +160,7 @@ I’ve built 10+ professional automations, including:
 
 ![A cool cat GIF](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
+<!--
 ## 6. Email & SMS Campaigns
 
 1️⃣ 3 Email Campaigns: Welcome Series, Weekly Newsletter, Sales Promo
@@ -184,7 +178,7 @@ I’ve built 10+ professional automations, including:
 4️⃣ A/B tested subject lines
 
 📸 Proof:![A cool GIF](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
-
+-->
 <!--
 ## 7. Social Media Planner
 
