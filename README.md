@@ -246,6 +246,7 @@ I’ve built 10+ professional automations, including:
 4️⃣ Automation `Failed payment → Reminder SMS`
 
 📸 Proof:![A cool GIF](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+<!--
 ## 11. Chat Widgets & Conversations
 
 1️⃣ Live Chat widget added to demo sit
@@ -259,7 +260,7 @@ I’ve built 10+ professional automations, including:
 3️⃣ Auto Reply Bot setup
 
 📸 Proof:
-
+-->
 ## Why This Portfolio Stands Out
 
 By building all 13 categories in detail, I’ve created one of the most complete Go High Level portfolios you’ll find.
